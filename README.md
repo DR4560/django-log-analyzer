@@ -2,6 +2,7 @@
 
 <img src="cat2.JPG" width="224" height="225">
 (I like cats)
+
 ## django-log-analyzer code source
 
 
