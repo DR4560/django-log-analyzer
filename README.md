@@ -1,6 +1,6 @@
 # test task
 
-<img src="kott.jpg" width="224" height="225">
+<img src="cat2.jpg" width="224" height="225">
 (I like cats)
 ## django-log-analyzer code source
 
