@@ -1,0 +1,5 @@
+2025-03-29 10:00:00,000 DEBUG django.request: GET /api/v1/products/ 200 OK [192.168.1.10]
+2025-03-29 10:02:00,000 INFO django.request: GET /api/v1/orders/ 200 OK [192.168.1.12]
+2025-03-29 10:04:00,000 ERROR django.request: Internal Server Error: /api/v1/orders/ [192.168.1.14]
+2025-03-29 10:06:00,000 INFO django.request: GET /api/v1/shipping/ 200 OK [192.168.1.16]
+2025-03-29 10:07:00,000 DEBUG django.request: GET /api/v1/shipping/ 200 OK [192.168.1.17]
