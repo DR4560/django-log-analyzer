@@ -29,3 +29,7 @@ django-log-analyzer/
 ├── README.md
 └── .gitignore
 </pre>
+
+##Usage
+```bash
+python3 main.py logs/app1.log logs/app2.log --report handlers
