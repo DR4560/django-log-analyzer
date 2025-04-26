@@ -1,0 +1,5 @@
+2025-03-28 12:49:41,000 INFO django.request: GET /api/v1/payments/ 201 OK [192.168.1.19]
+2025-03-28 12:35:52,000 INFO django.request: GET /api/v1/payments/ 204 OK [192.168.1.28]
+2025-03-28 12:02:07,000 INFO django.request: GET /api/v1/reviews/ 201 OK [192.168.1.35]
+2025-03-28 12:47:52,000 INFO django.request: GET /api/v1/auth/login/ 200 OK [192.168.1.18]
+2025-03-28 12:03:33,000 ERROR django.request: Internal Server Error: /api/v1/orders/ [192.168.1.22] - OSError: No space left on device
